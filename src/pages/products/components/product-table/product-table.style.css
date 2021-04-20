@@ -1,0 +1,22 @@
+.product-table-container {
+    width: 95%;
+    height: 70%;
+    margin: auto;
+    border: 1.5px solid rgb(75, 241, 75) ;
+    padding: 10px;
+    margin-top: 2px;
+    }
+    
+    .divisor {
+        margin-top: -12px;
+        margin-left: 5px;
+        width: 100px;
+        float: left;
+        font-weight: bold;
+    }
+    .texto {
+       padding-bottom: 15px;
+    }
+    .divisor2 {
+        margin-top: 10px;
+     }
